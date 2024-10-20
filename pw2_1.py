@@ -16,6 +16,5 @@ def draw_star(n, length):
         turtle.right(angle)
 
 
-turtle.speed(0) 
-draw_star(21, 300)  
-turtle.done()
+turtle.speed(1000000) 
+draw_star(21, 300)
