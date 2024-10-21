@@ -18,3 +18,4 @@ def draw_star(n, length):
 
 turtle.speed(1000000) 
 draw_star(21, 300)
+gggg
