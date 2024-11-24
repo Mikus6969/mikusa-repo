@@ -1,9 +1,0 @@
-wasdadwadsdawdasdawdasdawdasdawdwadasdawdawdasaa
-
-xgdfgdfgdfgfdgdfg
-
-
-
-
-
- izmanas
